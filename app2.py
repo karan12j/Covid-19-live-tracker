@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep 13 14:14:23 2020
 
-@author: anmol
+
 """
 
 import dash
