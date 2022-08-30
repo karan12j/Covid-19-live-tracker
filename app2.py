@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
 
-
-"""
 
 import dash
 import dash_bootstrap_components as dbc
@@ -169,11 +165,6 @@ navbar = dbc.Navbar( id = 'navbar', children = [
 
             )        
     ],
-            # add a top margin to make things look nice when the navbar
-            # isn't expanded (mt-3) remove the margin on medium or
-            # larger screens (mt-md-0) when the navbar is expanded.
-            # keep button and search box on same row (flex-nowrap).
-            # align everything on the right with left margin (ms-auto).
      
 )
 
